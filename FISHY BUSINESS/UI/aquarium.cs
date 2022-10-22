@@ -16,17 +16,5 @@ namespace FISHY_BUSINESS
         {
             InitializeComponent();
         }
-
-        private void creditsAndCitations(object sender, EventArgs e)
-        {
-            try
-            {
-
-            }
-            catch (Exception ex)
-            {
-
-            }
-        }
     }
 }
